@@ -28,4 +28,4 @@
 При анализе использовались критерий Стьюдента для независимых выборок.
 
 ## Используемые библиотеки
-*pandas, scipy, math, numpy, matplotlib
+*pandas, scipy, math, numpy, matplotlib*
