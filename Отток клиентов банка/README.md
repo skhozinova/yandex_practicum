@@ -28,4 +28,4 @@
 Дополнительно измерен AUC-ROC, соотнесен с F1-мерой.
 
 ## Используемые библиотеки
-* pandas, sklearn, matplotlib*
+*pandas, sklearn, matplotlib*
